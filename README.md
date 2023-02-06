@@ -1,7 +1,9 @@
 ## SMGBIT Teste 
 
 O projeto foi feito com o Front em React + Typescript e BackEnd com .NET com o design de arquitera DDD
+
 O banco utilizado foi o SQL SERVER
+
 As funcões do sistema são:
 
 - Ler planilhas em Excel
