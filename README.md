@@ -16,4 +16,4 @@ Cada projeto possui seu Readme com as instruções para execução
 
 OBS:
 
-Alguns dados no excel possuem valores que não foram estão na tabela frete ,logo fiz o sistema da forma de caso não houver os valores para o processamento o cadastro é realizado,mas o usuário verá a informação tabela e valor como indisponível.
+Alguns dados no excel possuem valores que não  estão na tabela frete ,logo fiz o sistema de caso não houver os valores para o processamento o cadastro é realizado,mas o usuário verá a informação tabela e valor como indisponível.
