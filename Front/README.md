@@ -1,17 +1,17 @@
-## SMGBIT Teste Front
+# SMGBIT Teste Front
 
 Um projeto feito em React e Typescript
 
 
-1ºPasso
+## 1ºPasso
 
-# npm install
+### npm install
 
-2ºPasso
+## 2ºPasso
 
-Trocar variavel de ambiente para local de execução da API
+### Trocar variavel de ambiente para local de execução da API
 
 
-3ºPasso
+## 3ºPasso
 
-npm start no front
+### npm start 
