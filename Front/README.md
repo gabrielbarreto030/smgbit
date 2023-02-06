@@ -14,4 +14,4 @@ Um projeto feito em React e Typescript
 
 ## 3ºPasso
 
-### npm start no front
+### npm start 
