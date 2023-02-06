@@ -1,20 +1,20 @@
-## SMGBIT Teste BackEnd
+# SMGBIT Teste BackEnd
 
 Um projeto feito em .NET , DDD e banco SQL SERVER
 
 
-1ºPasso
+## 1ºPasso
 
-Trocar string de conexão conforme sua maquina , banco local(sql server) e usuario local
+### Trocar string de conexão conforme sua maquina , banco local(sql server) e usuario local
 
-2ºPasso
+## 2ºPasso
 
-Execute no terminal do Nuget  
+### Execute no terminal do Nuget  
 
-# add-migration Initial
-# update-database 
+#### add-migration Initial
+#### update-database 
 
-3ºPasso
+## 3ºPasso
 
-Execute a API com inicialização no SMGBIT.WEBAPI
+### Execute a API com inicialização no SMGBIT.WEBAPI
 
