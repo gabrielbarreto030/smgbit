@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SMGBIT.Application",
+    "\\SMGBIT.Infra.Data",
+    "\\SMGBIT.Infra.Data\\EntitiesConfiguration",
+    "\\SMGBIT.WEBAPI",
+    "\\SMGBIT.WEBAPI\\Controllers"
+  ],
+  "SelectedNode": "\\smgbit.sln",
+  "PreviewInSolutionExplorer": false
+}
